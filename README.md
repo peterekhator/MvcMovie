@@ -1,3 +1,3 @@
-## MvcMovie
+# Movie App
 
-# Web App with ASP.NET Core MVC
+## A Web App with ASP.NET Core MVC
